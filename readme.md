@@ -1,4 +1,4 @@
-# MeshCentral Agent
+# MeshAgent - Agent application for MeshCentral devices
 
 ## Table of Contents
 
